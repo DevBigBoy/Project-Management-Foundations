@@ -1,1 +1,1 @@
-# Project-Management-Foundations
+# Project-Management-Foundations-Workshop 
